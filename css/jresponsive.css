@@ -1,0 +1,186 @@
+/*---------------RESPONSIVIDADE : QUEM SOMOS-INCIO------------------*/
+@media only screen and (max-width: 320px){
+	#who{
+		height: 700px;
+		background-image: linear-gradient(to top , white, gray);
+	}
+	.nos{
+		margin:-50px 0px 0px 0px ;
+		float: none;
+	}
+	.nos img{
+		width: 250px;
+		height: 200px;
+	}
+	.somos{
+		font-size: 15px;
+		width: 100%;
+		float: none;
+		margin: 0;
+		padding: 0;
+	}
+	.rei{
+		width: 100%;
+	}
+	.ml-6{
+		margin-top:10%; 
+	}
+}
+@media only screen and (min-width: 330px) and (max-width:500px ){
+	#receitas{
+		height: 2100px;
+	}
+	#who{
+		height: 600px;
+		background-image: linear-gradient(to top right, white, gray);
+	}
+	.nos{
+		margin:0px 0px 0px 0px ;
+		float: none;
+	}
+	.nos img{
+		width: 300px;
+		height: 200px;
+	}
+	.somos{
+		font-size: 15px;
+		width: 100%;
+		float: none;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+@media only screen and (min-width:500px) and (max-width: 1000px){
+	#who{
+		height: 680px;
+		background-image: linear-gradient(to top right, white, gray);
+	}
+	.nos{
+		margin:0;
+		float: none;
+	}
+	.nos img{
+		margin: 10px 0px 0px 0px;
+		height: 250px;
+	}
+	.somos{
+		/*font-size: 15px;*/
+		width: 100%;
+		float: none;
+	}
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1400px){
+	.somos div{
+		margin-left: 50px;
+	}
+	.somos{
+		margin-left: 80px;
+		margin-top: -300px;
+		width: 500px;
+	}
+}
+@media only screen and (min-width: 1152px) and (max-width:	1400px ){
+	.somos{
+		margin-top: 50px;
+		margin-left: 0;
+		margin-right:250px; 
+	}
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1380px){
+	.nos{
+		margin-left: 110px; 
+	}
+	.somos{
+		margin-right: 80px;
+		margin-left: -100px;
+		width: 620px;
+	}
+}
+@media only screen and (min-width: 1152px) and (max-width: 1222px){
+	.somos{
+		margin-right: 80px; 
+		width: 600px;
+		margin-top: 50px;
+	}
+}
+/*-------------------RESPONSIVIDADE : QUEM SOMOS-FIM-----------------------------*/
+
+
+/*---------------------RESPONSIVIDADE : RECEITAS-INICIO--------------------------*/
+
+@media only screen and (min-width: 320px) and (max-width: 390px){
+	#receitas{
+		height: 1920px;
+	}
+	.nota{
+		margin-left: 65px;
+	}
+}
+@media only screen and (min-width: 360px) and (max-width: 380px){
+
+	#receitas{
+		height: 2050px;
+	}
+}
+@media only screen and (min-width: 400px) and (max-width: 420px){
+	.nota{
+		margin-left: 105px;
+	}
+}
+@media only screen and (min-width: 500px) and (max-width: 1000px){
+	#receitas{
+		height: 2050px;
+	}
+	.card{
+		width: 300px;
+	}
+	#teste{
+		width: 100%;
+	}
+	.item{
+		margin-left: 25%;
+	}
+}
+@media only screen and (min-width: 730px) and (max-width: 860px){
+	#receitas{
+		height: 1100px;
+	}
+}
+@media only screen and (min-width: 	999px) and (max-width: 1070px){
+	.card{
+		margin-left: -28px;
+		width: 230px;
+	}
+} 
+@media only screen and (min-width: 1000px) and (max-width:1200px){
+	.nota{
+		margin-left: 130px; 
+	}
+	.card{
+		width: 400px;
+	}
+
+}
+@media only screen and (min-width: 700px) and (max-width: 999px){
+	.card{
+		width: 300px;
+		margin-left: -150px;
+	}
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1500px){
+	.card{
+		margin-left: -85px;
+		width: 240px;
+	}
+}
+@media only screen and (min-width: 1336px){
+	.card{
+		margin-left: -80px;
+		width: 250px;
+	}
+}
+/*-------------------------RESPONSIVIDADE : RECEITAS-FIM------------------------*/
