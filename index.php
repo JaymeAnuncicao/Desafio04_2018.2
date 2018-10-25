@@ -54,7 +54,7 @@
     <!-- CSS Desenvolvedor -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <link rel="stylesheet" href="css/final.css">
+    <link rel="stylesheet" href="css/final1.css">
 
 </head>
 <body>
